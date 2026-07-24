@@ -77,7 +77,7 @@
 
 ## 📊 Материалы и визуализации
 
-- 📊 [Презентация с выводами (PPTX)](assets/zombie-revolution-presentation.pptx)
+- 📊 [Презентация с выводами (Google Slides)](https://docs.google.com/presentation/d/1E4vR-fIi3Q3mP85RfBzvItqIsa6aw6n2/edit?usp=sharing)
 - 📄 [Аналитический отчёт (PDF)](assets/zombie-revolution-report.pdf)
 - 📈 [Витрина: Sticky Factor + динамика DAU/WAU/MAU (Excel)](assets/sticky-factor-dau-wau-mau.xlsm)
 - 📈 [Витрина: базовые метрики и когортный анализ (Excel)](assets/tz1-metrics-cohorts.xlsm)
